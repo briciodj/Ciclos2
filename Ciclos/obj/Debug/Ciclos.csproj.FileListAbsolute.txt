@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Ciclos\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\Admin\source\repos\Ciclos\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\Admin\source\repos\Ciclos\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\Admin\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\Admin\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.pdb
